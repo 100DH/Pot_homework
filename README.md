@@ -15,6 +15,10 @@ dev_cpp로 돌아가는 주전자 만들기
 7. ibfreeglut.a , libopengl32.a , libglu32.a 세 개의 파일을 추가합니다.
 8. 이후 깃에 올려져있는 코드를 dev cpp에 복사한 후 F11을 눌러 실행합니다.
 
+# 실행 화면
+![돌아가는-주전자-_online-video-cutter com_](https://github.com/100DH/Pot_homework/assets/93199016/7164cf74-69c1-4e81-b4c0-3fd514ae9199)
+
+
 # 실행 코드 
 
         // 20210815 백대현
